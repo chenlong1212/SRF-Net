@@ -1,0 +1,5 @@
+train: images/train   
+val: images/test      
+
+names:
+  0: ppp   
